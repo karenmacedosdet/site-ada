@@ -1,5 +1,5 @@
 ## Ada Lovelace
-Página criada com os conhecimentos adquiridos durante o curso online Eu ProgrAmo, da PrograMaria, como 
+Página criada com os conhecimentos adquiridos durante o curso online Eu ProgrAmo Front End #1, da PrograMaria, como 
 forma de entrada em desenvolvimento Front-end.
 
 ### Conceitos e Tecnologias
